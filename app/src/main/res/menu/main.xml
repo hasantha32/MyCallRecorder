@@ -20,6 +20,4 @@
         android:title="Sort By Date"
         app:showAsAction="never" />
 
-
-
 </menu>
